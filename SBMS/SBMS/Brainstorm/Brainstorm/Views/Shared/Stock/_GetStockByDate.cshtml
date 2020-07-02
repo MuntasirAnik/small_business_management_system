@@ -1,0 +1,38 @@
+﻿
+<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0" style="color:black ;background-color:white">
+    <tr>
+        <th>Sl</th>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Category</th>
+        <th>Reorder Level</th>
+        <th>Expired Date</th>
+        <th>Opening Balance</th>
+        <th>In</th>
+        <th>Out</th>
+        <th>Closing Balance</th>
+       
+    </tr>
+    @{
+        var Purch = ViewBag.all;
+    }
+    @{ int i = 1;}
+    @foreach (var p in Purch)
+    {
+        <tr class="Search">
+
+            <td>@(i++)</td>
+            <td>@p.Code</td>
+            <td>@p.Product</td>
+            <td>@p.Category</td>
+            <td>@p.ReorderLevel</td>
+            <td>@p.Expdate.ToString("dd/MM/yyyy")</td>
+            <td>@p.OpeningBalance</td>
+            <td>@p.In</td>
+            <td>@p.Out</td>
+            <td>@p.ClosingBalance</td>
+          
+        </tr>
+    }
+
+</table>

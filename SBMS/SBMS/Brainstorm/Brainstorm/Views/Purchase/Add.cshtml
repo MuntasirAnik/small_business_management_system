@@ -1,0 +1,746 @@
+﻿
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*<!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Add</title>
+        <style>
+            table {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+            }
+
+            td, th {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+
+            tr:nth-child(even) {
+                background-color: #dddddd;
+            }
+        </style>
+    </head>
+    <body>*@
+@section MyStyle{
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            color: black;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #f8f8f8;
+            text-align: left;
+            padding: 8px;
+        }
+
+     
+
+        /*tr:nth-child(even) {
+            background-color: #dddddd;
+        }*/
+       
+    </style>
+
+}<div><h2 style="color:#0074D9; font-family:'Century Gothic Light'"><strong>Purchase</strong></h2></div>
+<div class="sidebar-brand-text mx-3"><h5>
+    @Html.ActionLink("View", "GetPurchase", "Purchase", null, null)</h5>
+  
+</div>
+    <div>
+        <form method="post" id="form">
+            <table>
+
+                <tr>
+                    <td>Date</td>
+                    <td><input type="date" name="Date" id="Date"/> </td>
+                    @*<td>@Html.ValidationMessageFor(c => c.Date) </td>*@
+                    <td id="validdate" style="color:red"> </td>
+                </tr>
+             
+                    
+                    <input  style="display: none;" type="text" id="purcode" name="Code" /> 
+                    @*<td>@Html.ValidationMessageFor(c => c.Date) </td>*@
+               
+                <tr>
+                    <td>Bill No:</td>
+                    @*<td><input type = "text" name="Name" value="@Model.Name"/></td>*@
+                    <td><input type="text" name="BillNo" id="BillNo"/> </td>
+                    @*<td>@Html.ValidationMessageFor(c => c.BillNo)</td>*@
+                    <td id="validbill" style="color:red"> </td>
+
+                </tr>
+
+                <tr>
+                    <td>Supplier </td>
+                    @*<td><input type = "text" name="Name" value="@Model.Name"/></td>*@
+                    @*<td>@Html.DropDownListFor(c => c.SupplierId, Model.SupplierSelectListItems, "--Select--")</td>*@
+                    <td>@Html.DropDownList("Supplier", null, "--select--", new { Name = "SupplierId",id = "supid"})</td>
+                    @*<td>@Html.ValidationMessageFor(c => c.SupplierId)</td>*@
+
+
+                </tr>
+
+
+
+
+
+            </table>
+
+            <div class="row"></div>
+            @************************************************************@
+
+            <table>
+                <tr>
+                    <td>Category</td>
+                    <td>@Html.DropDownList("Category", null, "--select--", null)</td>
+                    <td>Available Quantity</td>
+                    <td><input type="number" id="availablequantity" readonly /> </td>
+
+                </tr>
+                <tr>
+                    <td>Product<input type="hidden" id="productname"></td>
+                    <td>
+                        <select id="Product">
+                            <option value=-1>--select--</option>
+                        </select>
+                    </td>
+                    <td>Quantity</td>
+                    <td><input type="number" id="quantity" /> </td>
+                </tr>
+
+                <tr>
+                    <td>Code</td>
+                    <td><input type="text" id="code" readonly /> </td>
+                    <td>Unit Price</td>
+                    <td><input type="number" step="any" id="unitprice" /> </td>
+
+                </tr>
+                <tr>
+                    <td>Manufacturing Date</td>
+                    <td><input type="date" id="mfgdate" /> </td>
+                    <td>Total Price</td>
+                    <td><input type="number" step="any" id="totalprice" readonly /> </td>
+
+                </tr>
+                <tr>
+                    <td>Expire Date</td>
+                    <td><input type="date" id="expdate" /> </td>
+                    <td>Previous Cost Price</td>
+                    <td><input type="number" step="any" id="precostprice" readonly /> </td>
+
+                </tr>
+
+                <tr>
+                    <td>Previous MRP</td>
+                    <td><input type="number" step="any" id="premrp" readonly /> </td>
+                    <td>New MRP </td>
+                    <td><input type="number" step="any" id="mrp" readonly /> </td>
+
+                </tr>
+                <tr>
+                    <td>Remarks</td>
+                    <td><input type="text" id="remarks" /> </td>
+
+
+                </tr>
+                <tr>
+                    <td></td>
+                    @*<td><input type="submit" value="Save" /></td>*@
+                    <td>
+                        <button class="btn btn-primary" type="button" id="add">
+                            <i class="animated--fade-in">Add</i>
+                        </button>
+                    </td>
+                    @*<td>
+                            @if (ViewBag.Message != null)
+                            {
+                                <h3>
+                                    <b>
+                                        @ViewBag.Message
+                                    </b>
+                                </h3>
+                            }
+
+                        </td>*@
+                </tr>
+
+
+            </table>
+
+
+
+            @************************************************************@
+
+
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0" style="color:black ;background-color:white">
+
+                <thead>
+                    <tr>
+                        <td>Sl</td>
+                        @*<td >ProductId</td>*@
+                        <td>Product Name</td>
+                        <td>Product Code</td>
+                        <td>Mfg Date</td>
+                        <td>Exp Date</td>
+                        <td>Quantity</td>
+                        <td>Unit</td>
+                        <td>Total Price</td>
+                        <td>MRP</td>
+                        <td>Remarks</td>
+                    </tr>
+                </thead>
+                <tbody id="ResultDetailsTable"></tbody>
+
+            </table>
+
+            <button class="btn btn-primary" type="Submit" value="Save" id="savebtn">
+                <i class="animated--fade-in">Submit</i>
+            </button>
+     
+        </form>
+    </div>
+ 
+    @*<div class="row">
+        <div class="col-md-12" id="purchasePartial"></div>
+    </div>*@
+
+
+    @section MyScript{
+        <script src="~/Scripts/jquery-1.8.0.min.js"></script>
+        <script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+        <script>
+            $(document).ready(function () {
+                /////////////////////////////////////////////////////////////////////////////////
+
+                $("#savebtn").prop('disabled', true);
+                var valid = false;
+
+                var link = document.getElementById('search');
+               // link.style.display = 'none';
+                link.style.visibility = 'hidden';
+
+
+                /////////////////////////////////////////////////////////////////
+
+               
+
+                /////////////////////////////////////////
+
+                $("#supid").change(function () {
+
+                    allclear();
+                    $("#ResultDetailsTable").empty();
+                    $("#savebtn").prop('disabled', true);
+                    $.ajax({
+                    url: "/Purchase/GetPurCode",
+                    type: "POST",//GET/POST
+                    data: null,
+                    success: function (data) {
+                       // alert("Purchase Code: "+data);
+                        $("#purcode").val(data); 
+                        
+                    },
+                    error: function () { alert("Error");  }
+
+                });
+
+
+
+
+
+
+                });
+
+                
+                /**************************/
+                //$.ajax({
+                //    url: "/Purchase/GetPurchaseDetails",
+                //    type: "POST",//GET/POST
+                //    data: null,
+                //    success: function (data) {
+
+                //        $("#purchasePartial").html(data);
+                //    },
+                //    error: function () { alert("Please select a Student"); }
+
+                //});
+
+
+
+                /************************/
+                var firstNumber = 0;
+                var secondNumber = 0;
+                $("#quantity").keyup(function () {
+
+                    if (!isNullOrEmpty($("#quantity").val())) {
+                        firstNumber = parseFloat($("#quantity").val());
+                    }
+
+
+                    if (!isNullOrEmpty($("#unitprice").val())) {
+                        secondNumber = parseFloat($("#unitprice").val());
+                    }
+
+
+                    if (!isNullOrEmpty($("#unitprice").val()) && !isNullOrEmpty($("#quantity").val())) {
+                        $("#totalprice").val(firstNumber * secondNumber);
+                        $("#mrp").val(secondNumber + (secondNumber * (25 / 100)));
+                    }
+                    else {
+                        $("#totalprice").val(null);
+                        $("#mrp").val(null);
+                    }
+                });
+                $("#unitprice").keyup(function () {
+                    if (!isNullOrEmpty($("#quantity").val())) {
+                        firstNumber = parseFloat($("#quantity").val());
+                    }
+
+
+                    if (!isNullOrEmpty($("#unitprice").val())) {
+                        secondNumber = parseFloat($("#unitprice").val());
+                    }
+                    if (!isNullOrEmpty($("#unitprice").val()) && !isNullOrEmpty($("#quantity").val())) {
+                        $("#totalprice").val(firstNumber * secondNumber);
+                        $("#mrp").val(secondNumber + (secondNumber * (25 / 100)));
+                    }
+                    else {
+                        $("#totalprice").val(null);
+                        $("#mrp").val(null);
+                    }
+                });
+
+
+                function isNullOrEmpty(data) {
+                    if (data === undefined || data === "" || isNaN(data)) {
+                        return true;
+                    }
+                    return false;
+
+                }
+
+
+
+                /************************/
+                $("#Product").change(function () {
+
+                    var prodId = $("#Product").val();
+                    var jsonRequestData = { ProdId: prodId };
+                    $.ajax({
+                        url: "/Purchase/GetProductCode",
+                        type: "POST",//GET/POST
+                        data: jsonRequestData,
+                        success: function (products) {
+                            $.each(products, function (key, value) {
+
+                                $("#code").val(value.Code);
+                                $("#productname").val(value.Name);
+
+                            });
+
+                        },
+                        error: function () { alert("Please select a Product"); }
+
+                    });
+
+                    $("#precostprice").val('0');
+                    $("#premrp").val('0');
+
+                    $.ajax({
+                        url: "/Purchase/GetPrevMRP",
+                        type: "POST",//GET/POST
+                        data: jsonRequestData,
+                        success: function (products) {
+
+
+                            $.each(products, function (key, value) {
+
+                                $("#precostprice").val(value.UnitPrice);
+                                $("#premrp").val(value.MRPPrice);
+
+
+
+                            });
+
+
+
+                        },
+                        error: function () { alert("Please select a Product"); }
+
+                    });
+
+
+
+                    $.ajax({
+                        url: "/Sale/GetAvailable",
+                        type: "POST",//GET/POST
+                        data: jsonRequestData,
+                        success: function (r) {
+
+                            $("#availablequantity").val(r);
+
+                        },
+                        error: function () { alert("Please select a Product"); }
+
+                    });
+
+
+
+
+
+
+
+
+
+
+                }
+
+                );
+
+
+                /************************/
+                $("#Category").change(function () {
+
+                    var categoryId = $("#Category").val();
+                    var jsonRequestData = { categoryId: categoryId };
+                    $.ajax({
+                        url: "/Purchase/GetProductByCategoryId",
+                        type: "POST",//GET/POST
+                        data: jsonRequestData,
+                        success: function (products) {
+                            //alert("success");
+                            $("#Product").empty();
+                            $("#Product").append('<Option value="' + -1 + '">' + "--select--" + '</Option>');
+                            // $("#Student").append('<Option> value="' + value.Id + '">' + "--select--" + '</Option>')
+                            $.each(products, function (key, value) {
+
+                                $("#Product").append('<Option value="' + value.Id + '">' + value.Name + '</Option>');
+
+                            });
+
+
+                        },
+                        error: function () { alert("Please select a Category"); }
+
+                    });
+                }
+
+                );
+
+
+                var b = true;
+                /**********************/
+                $("#BillNo").focusout(function () {
+
+                    var Nameget = $("#BillNo").val();
+                    var jsonRequestData = { bill: Nameget };
+                    $.ajax({
+                        url: "/Purchase/GetPurchaseByBill",
+                        type: "POST",//GET/POST
+                        data: jsonRequestData,
+                        success: function (isExist) {
+
+                            $("#validbill").empty();
+                            if (isExist) {
+                                $("#validbill").empty();
+                                $("#validbill").append('*Bill No already exists'); b = false;
+                            }
+                            else { /*$("#validname").empty();*/ b = true; }
+
+                        },
+
+                        error: function (data) { alert("Error in Unique Checking(Code)"); }
+
+
+                    });
+                });
+
+
+
+
+
+
+
+
+
+
+
+
+
+                var index = 0;
+
+                $('#add').click(function () {
+                    valid = false;
+                    /////////////////////////////////
+                    var d = $('#Date').val();
+                    if ( $('#Date').val() == "") {
+
+                        $("#validdate").empty();
+                        // $("#validdate").append('*Select a Date');
+                        alert('Select Purchase Date');
+                        return;
+
+                    }
+
+                    ////////////////////////////////
+
+                    if ($('#BillNo').val() == "" ) {
+                        $("#validdate").empty();
+                        $("#validbill").empty();
+                       // $("#validbill").append('*Bill No is Empty');
+                        alert('Bill No is Empty');
+                        return;
+
+                    }
+                    ////////////////////////////////////////
+                    if (!b)
+                    {
+                        alert("Bill No already exists ");
+                        return;
+                    }
+
+
+
+
+
+
+
+                    ///////////////////////////////////////
+
+                    if ($('#supid').val() == "") {
+
+                        // $("#validbill").append('*Bill No is Empty');
+                        alert('Supplier not selected');
+                        return;
+
+                    }
+                    ///////////////////////////////////////////////
+                    if ($('#Product').val() == "-1") {
+
+                        // $("#validbill").append('*Bill No is Empty');
+                        alert('Product not selected');
+                        return;
+
+                    }
+                    ///////////////////////////////////////////////
+                    if ($('#expdate').val() == "") {
+
+                        $("#validdate").empty();
+                        // $("#validdate").append('*Select a Date');
+                        alert('Select an Expire Date');
+                        return;
+
+                    }
+                    ///////////////////////////////////////////////
+
+                    if ($('#mfgdate').val() == "") {
+
+                        $("#validdate").empty();
+                        // $("#validdate").append('*Select a Date');
+                        alert('Select a Manufacturing Date');
+                        return;
+
+                    }
+                    //////////////////////////////////////////////////////
+                    if ($('#quantity').val() == ""  ) {
+
+                        $("#validdate").empty();
+                        // $("#validdate").append('*Select a Date');
+                        alert('add a quantity');
+                        return;
+
+                }
+                    if ( parseInt($('#quantity').val()) <= 0) {
+
+                        $("#validdate").empty();
+                         // $("#validdate").append('*Select a Date');
+                        alert('Quantity cannot be 0 or negative');
+                         return;
+
+                      }
+                    //////////////////////////////////////////
+                    if ($('#unitprice').val() == "" ) {
+
+                        $("#validdate").empty();
+                        // $("#validdate").append('*Select a Date');
+                        alert('add unitprice');
+                        return;
+
+                    }
+                    if (  parseFloat($('#unitprice').val()) <=0 ) {
+
+                               $("#validdate").empty();
+                               // $("#validdate").append('*Select a Date');
+                              alert('Unit Price Cannot be 0 or Negative');
+                               return;
+
+                          }
+
+
+
+                    valid = true;
+                    var result = GetResultData();
+
+                    var resultRow = GerResultRow(result);
+
+                    $("#ResultDetailsTable").append(resultRow);
+                    $("#savebtn").prop('disabled', false);
+                    //document.getElementById("Product").value="-1";
+                    //document.getElementById("expdate").value = "";
+                    //document.getElementById("mfgdate").value = "";
+                    //document.getElementById("quantity").value = "";
+                    //document.getElementById("code").value = "";
+                    //document.getElementById("premrp").value = "";
+                    //document.getElementById("precostprice").value = "";
+                    //document.getElementById("unitprice").value = "";
+                    //document.getElementById("mrp").value = "";
+                    //document.getElementById("totalprice").value = "";
+                    //document.getElementById("remarks").value = "";
+                    //document.getElementById("Category").value = "";
+                    //document.getElementById("availablequantity").value = "";
+                    allclear();
+                    index++;
+
+                });
+
+
+                function allclear()
+                {
+                    document.getElementById("Product").value = "-1";
+                    document.getElementById("expdate").value = "";
+                    document.getElementById("mfgdate").value = "";
+                    document.getElementById("quantity").value = "";
+                    document.getElementById("code").value = "";
+                    document.getElementById("premrp").value = "";
+                    document.getElementById("precostprice").value = "";
+                    document.getElementById("unitprice").value = "";
+                    document.getElementById("mrp").value = "";
+                    document.getElementById("totalprice").value = "";
+                    document.getElementById("remarks").value = "";
+                    document.getElementById("Category").value = "";
+                    document.getElementById("availablequantity").value = "";
+                }
+
+
+
+                function GetResultData() {
+
+
+                    var product = $('#Product').val();
+                    var productName = $('#productname').val();
+                    var code = $('#code').val();
+
+                    var mfgdate = $('#mfgdate').val();
+                    var expdate = $('#expdate').val();
+                    var quantity = $('#quantity').val();
+                    var unitprice = $('#unitprice').val();
+                    var totalprice = $('#totalprice').val();
+                    var mrp = $('#mrp').val();
+                    var remarks = $('#remarks').val();
+
+
+                    return { ProductId: product, ProductName: productName, ProductCode: code, MfgDate: mfgdate, ExpDate: expdate, Quantity: quantity, UnitPrice: unitprice, TotalPrice: totalprice, MRPPrice: mrp, Remarks: remarks }
+                }
+
+                var sl = index;
+                function GerResultRow(result) {
+
+                    var productIdHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].ProductId' value='" + result.ProductId + "'></div>";
+                    var productNameHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].ProductName' value='" + result.ProductName + "'></div>";
+                    var productCodeHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].ProductCode' value='" + result.ProductCode + "'></div>";
+                    var mfgdateHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].MfgDate' value='" + result.MfgDate + "'></div>";
+                    var expdateHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].ExpDate' value='" + result.ExpDate + "'></div>";
+                    var quantityHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].Quantity' value='" + result.Quantity + "'></div>";
+                    var unitpriceHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].UnitPrice' value='" + result.UnitPrice + "'></div>";
+                    var totalpriceHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].TotalPrice' value='" + result.TotalPrice + "'></div>";
+                    var mrpHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].MRPPrice' value='" + result.MRPPrice + "'></div>";
+                    var remarksHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].Remarks' value='" + result.Remarks + "'></div>";
+
+
+                    var startTr = "<tr>";
+                    var slCell = "<td >" + (++sl) + "</td>";
+                    var Cell1 = "<td style='display: none;' >" + productIdHidden + result.ProductId + "</td>";
+                    var Cell2 = "<td >" + productNameHidden + result.ProductName + "</td>";
+                    var Cell3 = "<td >" + productCodeHidden + result.ProductCode + "</td>";
+                    var Cell4 = "<td >" + mfgdateHidden + result.MfgDate + "</td>";
+                    var Cell5 = "<td >" + expdateHidden + result.ExpDate + "</td>";
+                    var Cell6 = "<td >" + quantityHidden + result.Quantity + "</td>";
+                    var Cell7 = "<td >" + unitpriceHidden + result.UnitPrice + "</td>";
+                    var Cell8 = "<td >" + totalpriceHidden + result.TotalPrice + "</td>";
+                    var Cell9 = "<td >" + mrpHidden + result.MRPPrice + "</td>";
+                    var Cell10 = "<td >" + remarksHidden + result.Remarks + "</td>";
+                    var endTr = "</tr>";
+
+                    return (startTr + slCell + Cell1 + Cell2 + Cell3 + Cell4 + Cell5 + Cell6 + Cell7 + Cell8 + Cell9 + Cell10 + endTr);
+
+                }
+
+                ////////////////////////////////////////////////////////////////////////////////////////////////
+
+                function Contains(text_one, text_two) {
+                    if (text_one.indexOf(text_two) != -1)
+                        return true;
+                }
+                $("#search").keyup(function () {
+                    var searchtext = $("#search").val().toLocaleLowerCase();
+
+
+
+                    $(".Search").each(function () {
+
+                        if (!Contains($(this).text().toLowerCase(), searchtext)) {
+                            $(this).hide();
+                        }
+                        else {
+                            $(this).show();
+                        }
+                    }
+                    )
+                });
+                ///////////////////////////////////
+
+                $("#form").submit(function () {
+
+                    if ($(this).valid()) {
+                        alert('Successfully submitted!');
+
+                    }
+                    else {
+                        alert('Error in Submission!No data was inserted');
+
+                    }
+                });
+
+
+
+
+
+
+
+
+
+
+
+
+            });
+
+
+        </script>
+    }
+    @*<script src="~/Scripts/jquery-1.8.0.min.js"></script>
+            <script src="~/Scripts/jquery.validate.js"></script>
+            <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+        </body>
+        </html>*@

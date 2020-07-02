@@ -1,0 +1,28 @@
+﻿@model Brainstorm.Models.PurchaseViewModel
+
+ 
+       <table  class="table table-bordered" id="dataTable" width="100%" cellspacing="0" style="color:black ;background-color:white">
+    <tr>
+        <th>Sl</th>
+        <th>Invoice No</th>
+        <th>Supplier</th>
+        <th>Date</th>
+        <th></th>
+        
+    </tr>
+    @{ int i = 1;}
+    @foreach (var p in Model.Purchases)
+    {
+        <tr class="Search">
+            <td>@(i++)</td>
+            <td>@p.BillNo</td>
+            <td>@p.SupplierId</td>
+            <td>@p.Date.ToString("dd/MM/yyyy")</td>
+            
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", "Student", new { Id = p.Id }, null)*@
+            </td>
+        </tr>
+    }
+
+</table>

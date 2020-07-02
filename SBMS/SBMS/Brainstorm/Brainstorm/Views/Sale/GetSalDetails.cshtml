@@ -1,0 +1,55 @@
+﻿
+
+@model Brainstorm.Models.SaleViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div><h2 style="color:#0074D9; font-family:'Century Gothic Light'"><strong>Sale</strong></h2></div>
+
+<table class="table table-borderless" width="100%" cellspacing="0" style="color:black ;background-color:'#f8f8f8'">
+    <tr><td>Sales Code : @Model.Code</td></tr>
+    <tr><td>Customer : @ViewBag.Customer</td></tr>
+  
+    <tr><td>Sales Date: @Model.Date.ToString("dd/MM/yyyy")</td></tr>
+
+</table>
+<div class="sidebar-brand-text mx-3">
+    <h5>
+        @Html.ActionLink("Back", "GetSale", "Sale", null, null)
+    </h5>
+</div>
+<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0" style="color:black ;background-color:white">
+    <tr>
+        <th>Sl</th>
+        <th>Product</th>
+        <th>Quantity</th>
+        <th>MRP</th>
+        <th>Total MRP</th>
+      
+
+    </tr>
+    @{ int i = 1;}
+    @foreach (var s in Model.SaleProducts)
+    {
+        <tr class="Search">
+            <td>@(i++)</td>
+            <td>@s.ProductName</td>
+            <td>@s.Quantity</td>
+            <td>@s.MRP</td>
+            <td>@s.TotalMRP</td>
+
+            
+        </tr>
+    }
+
+</table>
+<script>
+
+    var link = document.getElementById('search');
+    // link.style.display = 'none';
+    link.style.visibility = 'hidden';
+
+
+
+</script>

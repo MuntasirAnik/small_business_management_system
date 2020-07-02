@@ -1,0 +1,857 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section MyStyle{
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            color: black;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #f8f8f8;
+            text-align: left;
+            padding: 8px;
+        }
+
+
+
+
+        /*tr:nth-child(even) {
+            background-color: #dddddd;
+        }*/
+    </style>
+
+}
+
+<div><h2 style="color:#0074D9; font-family:'Century Gothic Light'"><strong>Sale</strong></h2></div>
+<div class="sidebar-brand-text mx-3">
+    <h5>
+        @Html.ActionLink("View", "GetSale", "Sale", null, null)
+    </h5>
+</div>
+
+<div>
+    <form method="post" id="form">
+        <table>
+
+            <tr>
+                <td>Sale Date</td>
+                <td><input type="date" name="Date" id="date"/> </td>
+                @*<td>@Html.ValidationMessageFor(c => c.Date) </td>*@
+            </tr>
+             <input style="display:none" type="text" id="salecode" name="Code" /> 
+
+            <tr>
+                <td>Customer </td>
+                @*<td><input type = "text" name="Name" value="@Model.Name"/></td>*@
+                @*<td>@Html.DropDownListFor(c => c.SupplierId, Model.SupplierSelectListItems, "--Select--")</td>*@
+                <td>@Html.DropDownList("Customer", null, "--select--", new { Name = "CustomerId",id="customerid" })</td>
+                @*<td>@Html.ValidationMessageFor(c => c.SupplierId)</td>*@
+
+
+            </tr>
+
+
+            <tr>
+                <td>Loyalty Point </td>
+                @*<td><input type = "text" name="Name" value="@Model.Name"/></td>*@
+                <td><input type="number" step="any" id="loyaltypoint" /> </td>
+                @*<td>@Html.ValidationMessageFor(c => c.BillNo)</td>*@
+
+            </tr>
+
+
+        </table>
+
+        <div class="row"></div>
+        @************************************************************@
+
+        <table>
+            <tr>
+                <td>Category</td>
+                <td>@Html.DropDownList("Category", null, "--select--", null)</td>
+
+            </tr>
+            <tr>
+                <td>Product<input type="hidden" id="productname"></td>
+                <td>
+                    <select id="Product">
+                        <option value=-1 >--select--</option>
+                    </select>
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Available Quantity</td>
+                <td><input type="number" id="availablequantity" readonly/> </td>
+                <td>Grand Total</td>
+                <td><input type="number" step ="any" id="grandtotal"  name="GrandTotal"/> </td>
+           </tr>
+            <tr>
+                <td>Quantity</td>
+                <td><input type="number" id="quantity" /> </td>
+                <td>Discount</td>
+                <td><input type="number" id="discount" readonly /> </td>
+            </tr>
+            <tr>
+                <td>MRP Price</td>
+                <td><input type="number" step=".01" id="mrpprice" /> </td>
+                <td>Discount Amount</td>
+                <td><input type="number" id="discountamount" readonly /> </td>
+            </tr>
+            <tr>
+                <td>Total MRP</td>
+                <td><input type="number" step="any" id="totalmrp" readonly /> </td>
+                <td>Payable Amount</td>
+                <td><input type="number" id="payableamount" readonly /> </td>
+            </tr>
+           
+          
+          
+
+           
+       
+            <tr>
+                <td></td>
+                @*<td><input type="submit" value="Save" /></td>*@
+                <td>
+                    <button class="btn btn-primary" type="button" id="add">
+                        <i class="animated--fade-in">Add</i>
+                    </button>
+                </td>
+                @*<td>
+                        @if (ViewBag.Message != null)
+                        {
+                            <h3>
+                                <b>
+                                    @ViewBag.Message
+                                </b>
+                            </h3>
+                        }
+
+                    </td>*@
+            </tr>
+
+
+        </table>
+
+
+
+        @************************************************************@
+
+
+        <table  class="table table-bordered" id="dataTable" width="100%" cellspacing="0" style="color:black ;background-color:white">
+
+            <thead>
+                <tr>
+                    <td>Sl</td>
+                    @*<td >ProductId</td>*@
+                  
+                    <td>Product Name</td>
+                    <td>Quantity</td>
+                    <td>MRP</td>
+                    <td>Total MRP</td>
+                   
+                </tr>
+            </thead>
+            <tbody id="ResultDetailsTable" > </tbody>
+
+        </table>
+
+        <button class="btn btn-primary" type="Submit" value="Save" id="savebtn">
+            <i class="animated--fade-in">Submit</i>
+        </button>
+    </form>
+</div>
+
+
+@section MyScript{
+    <script src="~/Scripts/jquery-1.8.0.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    
+    <script>
+        $(document).ready(function() {
+            /////////////////////////////////////////////////////////////////////////////////
+
+            $("#savebtn").prop('disabled', true);
+            var valid = false;
+
+            var link = document.getElementById('search');
+            // link.style.display = 'none';
+            link.style.visibility = 'hidden';
+
+            //////////////////////////////////////////////////
+            $("#customerid").change(function () {
+              
+                $.ajax({
+                    url: "/Sale/GetSaleCode",
+                    type: "POST",//GET/POST
+                    data: null,
+                    success: function (data) {
+
+                        $("#salecode").val(data);
+                    },
+                    error: function () { alert("Please select a Student"); }
+
+                });
+            });
+
+
+
+
+
+
+
+
+
+
+             var firstNumber = 0;
+            var secondNumber = 0;
+            $("#quantity").keyup(function () {
+
+                if (!isNullOrEmpty($("#quantity").val())) {
+                    firstNumber = parseInt($("#quantity").val());
+                }
+
+
+                if (!isNullOrEmpty($("#mrpprice").val())) {
+                    secondNumber = parseFloat($("#mrpprice").val()).toFixed(2);
+                }
+
+
+                if (!isNullOrEmpty($("#mrpprice").val()) && !isNullOrEmpty($("#quantity").val())) {
+                    $("#totalmrp").val(firstNumber * secondNumber);
+                  
+                }
+                 else {
+                    $("#totalmrp").val(null);
+                  
+                }
+            });
+            $("#mrpprice").keyup(function () {
+                if (!isNullOrEmpty($("#quantity").val())) {
+                    firstNumber = parseInt($("#quantity").val());
+                }
+
+
+                if (!isNullOrEmpty($("#mrpprice").val())) {
+                    secondNumber = parseFloat($("#mrpprice").val()).toFixed(2);
+                }
+                if (!isNullOrEmpty($("#mrpprice").val()) && !isNullOrEmpty($("#quantity").val())) {
+                    $("#totalmrp").val(firstNumber * secondNumber);
+                 
+                }
+                else {
+                    $("#totalmrp").val(null);
+                  
+                }
+            });
+
+
+            function isNullOrEmpty(data) {
+                if (data === undefined || data === "" || isNaN(data)) {
+                    return true;
+                }
+                return false;
+
+            }
+
+
+            /*****************************************************/
+
+           
+           
+
+
+            //function isNullOrEmpty(data) {
+            //    if (data === undefined || data === "" || isNaN(data)) {
+            //        return true;
+            //    }
+            //    return false;
+
+            //}
+            function GetDiscount() {
+                var e = parseInt($("#loyaltypoint").val());
+                var l = parseInt(e / 10);
+                return l;
+
+            }
+
+            /**************************/
+            $("#customerid").change(function () {
+                allclear();
+                document.getElementById("grandtotal").value = "";
+                document.getElementById("discount").value = "";
+                document.getElementById("discountamount").value = "";
+                document.getElementById("payableamount").value = "";
+                $("#ResultDetailsTable").empty();
+                $("#savebtn").prop('disabled', true);
+
+
+
+                var custId = $("#customerid").val();
+                
+                var jsonRequestData = { CustId: custId };
+                $.ajax({
+                    url: "/Sale/GetLoyaltyPoint",
+                    type: "POST",//GET/POST
+                    data: jsonRequestData,
+                    success: function (customers) {
+                        $("#loyaltypoint").empty();
+                        $("#loyaltypoint").val(customers);
+                        $('#discount').val(GetDiscount());
+                    },
+                    error: function () { $("#loyaltypoint").val(''); }
+
+                });
+               
+            });
+            /************************/
+
+            $("#Product").change(function () {
+
+                var prodId = $("#Product").val();
+               
+                var jsonRequestData = { ProdId: prodId };
+                $.ajax({
+                    url: "/Sale/GetProductName",
+                    type: "POST",//GET/POST
+                    data: jsonRequestData,
+                    success: function (products) {
+                    
+                            $("#productname").val(products);
+                           
+                    },
+                    error: function () { alert("Please select a Product"); }
+
+                });
+
+
+
+                $.ajax({
+                    url: "/Sale/GetAvailable",
+                    type: "POST",//GET/POST
+                    data: jsonRequestData,
+                    success: function (r) {
+
+                        $("#availablequantity").val(r);
+
+                    },
+                    error: function () { alert("Please select a Product"); }
+
+                });
+                $.ajax({
+                    url: "/Sale/GetReorderLevel",
+                    type: "POST",//GET/POST
+                    data: jsonRequestData,
+                    success: function (sum) {
+
+                        //$("#availablequantity").val(sum);
+                        if ($("#availablequantity").text < sum)
+                             {
+                                 alert("quantity is under reorder level");
+
+                             }
+
+                    },
+                    error: function () {  }
+
+                });
+
+                $.ajax({
+                    url: "/Purchase/GetPrevMRP",
+                    type: "POST",//GET/POST
+                    data: jsonRequestData,
+                    success: function (products) {
+
+
+                        $.each(products, function (key, value) {
+
+                            
+                            $("#mrpprice").val(value.MRPPrice);
+
+
+
+                        });
+
+
+
+                    },
+                    error: function () { alert("Please select a Product"); }
+
+                });
+
+            });
+            ////************************************//////////////////
+            //var firstNumber = 0;
+            //var secondNumber = 0;
+            //$("#quantity").keyup(function () {
+
+            //    if (!isNullOrEmpty($("#quantity").val())) {
+            //        firstNumber = parseFloat($("#quantity").val());
+            //    }
+
+
+            //    if (!isNullOrEmpty($("#unitprice").val())) {
+            //        secondNumber = parseFloat($("#unitprice").val());
+            //    }
+
+
+            //    if (!isNullOrEmpty($("#unitprice").val()) && !isNullOrEmpty($("#quantity").val())) {
+            //        $("#totalprice").val(firstNumber * secondNumber);
+            //        $("#mrp").val(secondNumber + (secondNumber*(25/100)));
+            //    }
+            //     else {
+            //        $("#totalprice").val(null);
+            //        $("#mrp").val(null);
+            //    }
+            //});
+            //$("#unitprice").keyup(function () {
+            //    if (!isNullOrEmpty($("#quantity").val())) {
+            //        firstNumber = parseFloat($("#quantity").val());
+            //    }
+
+
+            //    if (!isNullOrEmpty($("#unitprice").val())) {
+            //        secondNumber = parseFloat($("#unitprice").val());
+            //    }
+            //    if (!isNullOrEmpty($("#unitprice").val()) && !isNullOrEmpty($("#quantity").val())) {
+            //        $("#totalprice").val(firstNumber * secondNumber);
+            //        $("#mrp").val(secondNumber + (secondNumber * (25 / 100)));
+            //    }
+            //    else {
+            //        $("#totalprice").val(null);
+            //        $("#mrp").val(null);
+            //    }
+            //});
+
+
+            //function isNullOrEmpty(data) {
+            //    if (data === undefined || data === "" || isNaN(data)) {
+            //        return true;
+            //    }
+            //    return false;
+
+            //}
+
+
+
+             /************************/
+            //$("#Product").change(function () {
+
+            //    var prodId = $("#Product").val();
+            //    var jsonRequestData = { ProdId: prodId };
+            //    $.ajax({
+            //        url: "/Purchase/GetProductCode",
+            //        type: "POST",//GET/POST
+            //        data: jsonRequestData,
+            //        success: function (products) {
+            //            $.each(products, function (key, value) {
+
+            //                $("#code").val(value.Code);
+            //                $("#productname").val(value.Name);
+
+            //            });
+
+            //        },
+            //        error: function () { alert("Please select a Product"); }
+
+            //    });
+
+            //    $("#precostprice").val('0');
+            //    $("#premrp").val('0');
+
+            //    $.ajax({
+            //        url: "/Purchase/GetPrevMRP",
+            //        type: "POST",//GET/POST
+            //        data: jsonRequestData,
+            //        success: function (products) {
+
+
+            //            $.each(products, function (key, value) {
+
+            //                        $("#precostprice").val(value.UnitPrice);
+            //                        $("#premrp").val(value.MRPPrice);
+
+
+
+            //                });
+
+
+
+            //        },
+            //        error: function () { alert("Please select a Product"); }
+
+            //    });
+
+
+            //}
+
+            //);
+            /////////////////***********************************//////////////////////////
+            ///////////////
+           
+         
+            ////////////////
+
+            var index = 0;
+
+            $('#add').click(function () {
+
+                ///////////////////////8888888888888888///////////////////
+
+
+                /////////////////////////////////
+                var d = $('#date').val();
+                if ($('#date').val() == "") {
+
+                    
+                    // $("#validdate").append('*Select a Date');
+                    alert('Select Purchase Date');
+                    return;
+
+                }
+
+                ////////////////////////////////
+                
+                if ($('#customerid').val() == "") {
+
+                    // $("#validbill").append('*Bill No is Empty');
+                    alert('Customer not selected');
+                    return;
+
+                }
+                ///////////////////////////////////////////////
+                if ($('#Product').val() == "-1") {
+
+                    // $("#validbill").append('*Bill No is Empty');
+                    alert('Product not selected');
+                    return;
+
+                }
+                ///////////////////////////////////////////////
+                if ( parseInt($('#availablequantity').val())==0) {
+
+
+                    alert('The following Product is out of stock!');
+                    return;
+
+                }
+         
+                //////////////////////////////////////////////////////
+                if ($('#quantity').val() == "") {
+
+      
+                    alert('add a quantity');
+                    return;
+
+                }
+                if (parseInt($('#quantity').val()) <= 0) {
+
+               
+                    alert('Quantity cannot be 0 or negative');
+                    return;
+
+                }
+                if (parseInt($('#quantity').val()) > parseInt($('#availablequantity').val()) ) {
+
+
+                    alert('Quantity has exceeded!');
+                    return;
+
+                }
+                //////////////////////////////////////////
+                if ($('#mrpprice').val() == "") {
+
+                
+                    alert('add MRP price');
+                    return;
+
+                }
+                if (parseFloat($('#mrpprice').val()) <= 0) {
+                    
+                    alert('MRP Price Cannot be 0 or Negative');
+                    return;
+
+                }
+
+
+
+                /////////////////////7665676/////////////////////////////
+
+
+                var result = GetResultData();
+                var resultRow = GerResultRow(result);
+                $("#ResultDetailsTable").append(resultRow);
+                index++;
+                $("#savebtn").prop('disabled', false);
+                $('#grandtotal').val(GrandCalc());
+              
+                $('#discountamount').val(GetDiscountAmount());
+                $('#payableamount').val(GetPayable());
+
+                allclear();
+                   // document.getElementById("form").reset();
+               
+
+                
+             
+
+            });
+
+
+            function allclear() {
+                document.getElementById("Product").value = "-1";
+
+                document.getElementById("quantity").value = "";
+                document.getElementById("mrpprice").value = "";
+                document.getElementById("totalmrp").value = "";
+                document.getElementById("Category").value = "";
+                document.getElementById("availablequantity").value = "";
+            }
+
+            function GetResultData() {
+
+                var productId = $('#Product').val();
+                var productName = $('#productname').val();
+                var quantity = $('#quantity').val();
+                var mrpPrice= $('#mrpprice').val();
+                var totalMrp = $('#totalmrp').val();
+
+                return { ProductId: productId, ProductName: productName, Quantity: quantity, MRP: mrpPrice, TotalMRP: totalMrp }
+            }
+
+            var sl = index;
+            function GerResultRow(result) {
+                //Working Quantity
+                var productIdHidden = "<input type='hidden' name='SaleProducts[" + index + "].ProductId' value='" + result.ProductId + "'></div>";
+                var productNameHidden = "<input type='hidden' name='SaleProducts[" + index + "].ProductName' value='" + result.ProductName + "'></div>";
+                var quantityHidden = "<input type='hidden' name='SaleProducts[" + index + "].Quantity' value='" + result.Quantity + "'></div>";
+                var mrpHidden = "<input type='hidden' name='SaleProducts[" + index + "].MRP' value='" + result.MRP + "'></div>";
+                var totalmrpHidden = "<input type='hidden' name='SaleProducts[" + index + "].TotalMRP' value='" + result.TotalMRP + "'></div>";
+
+                var startTr = "<tr>";
+                var slCell = "<td >" + (++sl) + "</td>";
+                var Cell1 = "<td style='display: none' >" + productIdHidden + result.ProductId + "</td>";
+                var Cell2 = "<td >" + productNameHidden + result.ProductName + "</td>";
+                var Cell3 = "<td >" + quantityHidden + result.Quantity + "</td>";
+                var Cell4 = "<td >" + mrpHidden + result.MRP + "</td>";
+                var Cell5 = "<td >" + totalmrpHidden + result.TotalMRP + "</td>";
+               
+               
+                var endTr = "</tr>";
+
+                return (startTr + slCell + Cell1 + Cell2 + Cell3 + Cell4 + Cell5  + endTr);
+
+            }
+
+
+            //function GetDiscount()
+            //{
+            //    var e = parseInt($("#loyaltypoint").val());
+            //    var l = e / 10;
+            //    return l;
+
+            //}
+            function GetDiscountAmount() {
+                var e = parseFloat($("#discount").val());
+                var l = parseFloat($("#grandtotal").val());
+                var j = l * (e / 100);
+                return j;
+
+            }
+            function GetPayable() {
+                var e = parseFloat($("#discountamount").val());
+                var l = parseFloat($("#grandtotal").val());
+                var j = l - e;
+                return j;
+
+            }
+
+            function GrandCalc()
+            {
+                var sum = 0;
+                if (!isNullOrEmpty($('#grandtotal').val()))
+                {
+                    sum += parseFloat($('#grandtotal').val());
+                }
+                
+                    var f = parseFloat($('#totalmrp').val());
+                    sum += f;
+            
+                return sum;
+            }
+          
+
+
+           /*****************************/
+
+          
+
+            /************************/
+            $("#Category").change(function () {
+
+                var categoryId = $("#Category").val();
+                var jsonRequestData = { categoryId: categoryId };
+                $.ajax({
+                    url: "/Sale/GetProductByCategoryId",
+                    type: "POST",//GET/POST
+                    data: jsonRequestData,
+                    success: function (products) {
+                        //alert("success");
+                        $("#Product").empty();
+                        $("#Product").append('<Option value="' + -1 + '">' + "--select--" + '</Option>');
+                        // $("#Student").append('<Option> value="' + value.Id + '">' + "--select--" + '</Option>')
+                        $.each(products, function (key, value) {
+
+                            $("#Product").append('<Option value="' + value.Id + '">' + value.Name + '</Option>');
+
+                        });
+
+
+                    },
+                    error: function () { alert("Please select a Category"); }
+
+                });
+            }
+
+            );
+
+            /**********************/
+
+            //var index = 0;
+
+            //$('#add').click(function () {
+            //    var result = GetResultData();
+
+            //    var resultRow = GerResultRow(result);
+
+            //    $("#ResultDetailsTable").append(resultRow);
+            //    index++;
+            //});
+
+            //function GetResultData() {
+
+
+            //    var product = $('#Product').val();
+            //    var productName = $('#productname').val();
+            //    var code = $('#code').val();
+
+            //    var mfgdate = $('#mfgdate').val();
+            //    var expdate = $('#expdate').val();
+            //    var quantity = $('#quantity').val();
+            //    var unitprice = $('#unitprice').val();
+            //    var totalprice = $('#totalprice').val();
+            //    var mrp = $('#mrp').val();
+            //    var remarks = $('#remarks').val();
+
+
+            //    return { ProductId:product,ProductName:productName,ProductCode:code, MfgDate:mfgdate,ExpDate:expdate,Quantity:quantity,UnitPrice:unitprice, TotalPrice:totalprice,MRPPrice:mrp,Remarks:remarks }
+            //}
+
+            //var sl = index;
+            //function GerResultRow(result) {
+
+            //    var productIdHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].ProductId' value='" + result.ProductId + "'></div>";
+            //    var productNameHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].ProductName' value='" + result.ProductName + "'></div>";
+            //    var productCodeHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].ProductCode' value='" + result.ProductCode + "'></div>";
+            //    var mfgdateHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].MfgDate' value='" + result.MfgDate + "'></div>";
+            //    var expdateHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].ExpDate' value='" + result.ExpDate + "'></div>";
+            //    var quantityHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].Quantity' value='" + result.Quantity + "'></div>";
+            //    var unitpriceHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].UnitPrice' value='" + result.UnitPrice + "'></div>";
+            //    var totalpriceHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].TotalPrice' value='" + result.TotalPrice + "'></div>";
+            //    var mrpHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].MRPPrice' value='" + result.MRPPrice + "'></div>";
+            //    var remarksHidden = "<input type='hidden' name='PurchaseProducts[" + index + "].Remarks' value='" + result.Remarks + "'></div>";
+
+
+            //    var startTr = "<tr>";
+            //    var slCell = "<td >" + (++sl) + "</td>";
+            //    var Cell1 = "<td style='display: none;' >" + productIdHidden + result.ProductId+ "</td>";
+            //    var Cell2 = "<td >" + productNameHidden + result.ProductName + "</td>";
+            //    var Cell3 = "<td >" + productCodeHidden + result.ProductCode + "</td>";
+            //    var Cell4 = "<td >" + mfgdateHidden + result.MfgDate + "</td>";
+            //    var Cell5 = "<td >" + expdateHidden + result.ExpDate + "</td>";
+            //    var Cell6 = "<td >" + quantityHidden + result.Quantity + "</td>";
+            //    var Cell7 = "<td >" + unitpriceHidden + result.UnitPrice + "</td>";
+            //    var Cell8 = "<td >" + totalpriceHidden + result.TotalPrice + "</td>";
+            //    var Cell9 = "<td >" + mrpHidden + result.MRPPrice + "</td>";
+            //    var Cell10 = "<td >" + remarksHidden + result.Remarks + "</td>";
+            //    var endTr = "</tr>";
+
+            //    return (startTr + slCell + Cell1+ Cell2+Cell3+Cell4+Cell5+Cell6+Cell7+Cell8+Cell9+Cell10 + endTr);
+
+            //}
+
+            ////////////////////////////////////////////////////////////////////////////////////////////////
+
+        //    function Contains(text_one, text_two) {
+        //        if (text_one.indexOf(text_two) != -1)
+        //            return true;
+        //    }
+
+        //    $("#search").keyup(function() {
+        //            var searchtext = $("#search").val().toLocaleLowerCase();
+        //            $(".Search").each(function() {
+
+
+        //                    if (!Contains($(this).text().toLowerCase(), searchtext)) {
+        //                        $(this).hide();
+        //                    } else {
+        //                        $(this).show();
+        //                    }
+        //                }
+        //            )
+
+        //        }
+        //    )
+
+
+/////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+            $("#form").submit(function () {
+
+                if ($(this).valid()) {
+                    alert('Successfully submitted!');
+
+                }
+                else {
+                    alert('Error in Submission! No data was inserted');
+
+                }
+            });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        });
+
+
+    </script>
+}

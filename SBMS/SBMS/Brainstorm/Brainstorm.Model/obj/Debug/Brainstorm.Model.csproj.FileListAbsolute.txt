@@ -1,0 +1,66 @@
+D:\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojResolveAssemblyReference.cache
+D:\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+D:\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+D:\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojAssemblyReference.cache
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojResolveAssemblyReference.cache
+D:\SBMS\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+D:\SBMS\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojResolveAssemblyReference.cache
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojResolveAssemblyReference.cache
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojResolveAssemblyReference.cache
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojResolveAssemblyReference.cache
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojResolveAssemblyReference.cache
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\bin\Debug\Brainstorm.Model.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csprojAssemblyReference.cache
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.csproj.CoreCompileInputs.cache
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.Model\obj\Debug\Brainstorm.Model.pdb

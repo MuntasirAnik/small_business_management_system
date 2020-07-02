@@ -1,0 +1,52 @@
+﻿
+@*@model Brainstorm.Models.PurchaseViewModel*@
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div><h2 style="color:#0074D9; font-family:'Century Gothic Light'"><strong>Purchase</strong></h2></div>
+<div class="sidebar-brand-text mx-3">
+    <h5>
+        @Html.ActionLink("Back", "Add", "Purchase", null, null)
+    </h5>
+</div>
+<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0" style="color:black ;background-color:white">
+    <tr>
+        <th>Sl</th>
+        <th>Purchase Code</th>
+        <th>Invoice No</th>
+        <th>Supplier</th>
+        <th>Date</th>
+        <th></th>
+
+    </tr>
+    @{
+        var Purch =ViewBag.purchaseDetail;
+
+    }
+    @{ int i = 1;}
+    @foreach (var p in Purch)
+    {
+        <tr class="Search" >
+            
+            <td>@(i++)</td>
+            <td>@p.Code</td>
+            <td>@p.BillNo</td>
+            <td >@p.Supplier</td>
+            <td>@p.Date.ToString("dd/MM/yyyy")</td>
+            <td>
+               @Html.ActionLink("Details", "GetPurDetails", "Purchase", new { Id = p.Id }, null)
+            </td>
+        </tr>
+    }
+
+</table>
+<script>
+
+    var link = document.getElementById('search');
+    // link.style.display = 'none';
+    link.style.visibility = 'hidden';
+
+
+   
+</script>

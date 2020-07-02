@@ -1,0 +1,237 @@
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DatatypeChangedofCategory.resources
+D:\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.Cache
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojAssemblyReference.cache
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DatatypeChangedofCategory.resources
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.cache
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CopyComplete
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.CustomerModuleAdded.resources
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DatatypeChangedofCategory.resources
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.CustomerModuleAdded.resources
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.Cache
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded.resources
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded2.resources
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.ProductModuleAdded.resources
+D:\SBMS\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DataTypeChanged.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DatatypeChangedofCategory.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.CustomerModuleAdded.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded2.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.ProductModuleAdded.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DataTypeChanged.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.Cache
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule2.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule3.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule4.resources
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule5.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DatatypeChangedofCategory.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.CustomerModuleAdded.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded2.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.ProductModuleAdded.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DataTypeChanged.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule2.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule3.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule4.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule5.resources
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule6.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DatatypeChangedofCategory.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.CustomerModuleAdded.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded2.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.ProductModuleAdded.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DataTypeChanged.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule2.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule3.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule4.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule5.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule6.resources
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.Cache
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DatatypeChangedofCategory.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.CustomerModuleAdded.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded2.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.ProductModuleAdded.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DataTypeChanged.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule2.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule3.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule4.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule5.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule6.resources
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.Cache
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DatatypeChangedofCategory.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.CustomerModuleAdded.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SupplierModuleAdded2.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.ProductModuleAdded.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.DataTypeChanged.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule2.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule3.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule4.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule5.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.PurchaseModule6.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.Cache
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SaleAdded.resources
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.SaleAdded1.resources
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.Full.resources
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.Cache
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.P7.resources
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.S7.resources
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.Full.resources
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.P7.resources
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.S7.resources
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\Brainstorm.Model.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csprojAssemblyReference.cache
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.Full.resources
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.P7.resources
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.Migrations.S7.resources
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.GenerateResource.cache
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CoreCompileInputs.cache
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.csproj.CopyComplete
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.DatabaseContext\obj\Debug\Brainstorm.DatabaseContext.pdb

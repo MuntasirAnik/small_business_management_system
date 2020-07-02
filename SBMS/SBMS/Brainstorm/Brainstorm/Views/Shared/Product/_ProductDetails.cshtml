@@ -1,0 +1,37 @@
+﻿@model Brainstorm.Models.ProductViewModel
+
+
+
+
+<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0" style="color:black ;background-color:white">
+    <tr>
+        <th>Sl</th>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Category</th>
+        <th>Reorder Level</th>
+        <th>Description</th>
+        <th>Action</th>
+
+
+    </tr>
+    @{ int i = 1;}
+    @foreach (var prod in Model.Products)
+    {
+        <tr class="Search">
+            <td>@(i++)</td>
+            <td>@prod.Code</td>
+            <td>@prod.Name</td>
+            <td>@prod.CategoryId</td>
+            <td>@prod.ReorderLevel</td>
+            <td>@prod.Description</td>
+
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Product", new { Id = prod.Id }, null)
+                @*@Html.ActionLink("Delete", "Delete", "Product", new { Id = prod.Id }, null)*@
+            </td>
+        </tr>
+    }
+
+</table>

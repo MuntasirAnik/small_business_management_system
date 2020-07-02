@@ -1,0 +1,143 @@
+﻿@model Brainstorm.Models.SupplierViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+    <style>
+         table {
+             font-family: arial, sans-serif;
+             color: black;
+             border-collapse: collapse;
+             width: 100%;
+         }
+
+         td, th {
+             border: 1px solid #f8f8f8;
+             text-align: left;
+             padding: 8px;
+         }
+
+
+
+         /*tr:nth-child(even) {
+            background-color: #dddddd;
+        }*/
+    </style>
+</head>
+<body>
+    <div><h2 style="color:#0074D9; font-family:'Century Gothic Light'"><strong>Supplier</strong></h2></div>
+    <div>
+        <form method="post">
+            <table>
+                <tr>
+                    <td>@Html.LabelFor(c => c.Code)</td>
+                    <td>@Html.TextBoxFor(c => c.Code, Model.Code)</td>
+                    <td>@Html.ValidationMessageFor(c => c.Code)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(c => c.Name)</td>
+                    @*<td><input type="text" name="Name" value="@Model.Name"/></td>*@
+                    <td>@Html.TextBoxFor(c => c.Name, Model.Name)</td>
+                    <td>@Html.ValidationMessageFor(c => c.Name)</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td>@Html.LabelFor(c => c.Address)</td>
+                    @*<td><input type="text" name="Name" value="@Model.Name"/></td>*@
+                    <td>@Html.TextBoxFor(c => c.Address, Model.Address)</td>
+                    <td>@Html.ValidationMessageFor(c => c.Address)</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td>@Html.LabelFor(c => c.Email)</td>
+                    @*<td><input type="text" name="Name" value="@Model.Name"/></td>*@
+                    <td>@Html.TextBoxFor(c => c.Email, Model.Email)</td>
+                    <td>@Html.ValidationMessageFor(c => c.Email)</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td>@Html.LabelFor(c => c.Contact)</td>
+                    @*<td><input type="text" name="Name" value="@Model.Name"/></td>*@
+                    <td>@Html.TextBoxFor(c => c.Contact, Model.Contact)</td>
+                    <td>@Html.ValidationMessageFor(c => c.Contact)</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td>@Html.LabelFor(c => c.ContactPerson)</td>
+                    @*<td><input type="text" name="Name" value="@Model.Name"/></td>*@
+                    <td>@Html.TextBoxFor(c => c.ContactPerson, Model.ContactPerson)</td>
+                    <td>@Html.ValidationMessageFor(c => c.ContactPerson)</td>
+                    <td></td>
+                </tr>
+
+
+
+
+
+
+                <tr>
+                    <td></td>
+                    <td><input type="submit" value="Search" /></td>
+                    <td>
+                        @if (ViewBag.Message != null)
+                        {
+                            <h3>
+                                <b>
+                                    @ViewBag.Message;
+                                </b>
+                            </h3>
+                        }
+
+                    </td>
+                </tr>
+
+            </table>
+
+            <table>
+                <tr>
+                    <th>Sl</th>
+                    <th>Code</th>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Email</th>
+                    <th>Contact</th>
+                    <th>ContactPerson</th>
+
+                </tr>
+                @{ int i = 1;}
+                @foreach (var sup in Model.Suppliers)
+                {
+                    <tr>
+                        <td>@(i++)</td>
+                        <td>@sup.Code</td>
+                        <td>@sup.Name</td>
+                        <td>@sup.Address</td>
+                        <td>@sup.Email</td>
+                        <td>@sup.Contact</td>
+                        <td>@sup.ContactPerson</td>
+
+                        <td>
+                             @Html.ActionLink("Edit", "Edit", "Supplier", new { Id = sup.Id }, null)
+                                @Html.ActionLink("Delete", "Delete", "Supplier", new { Id = sup.Id }, null)
+                        </td>
+                    </tr>
+                }
+
+            </table>
+
+
+
+        </form>
+    </div>
+</body>
+</html>

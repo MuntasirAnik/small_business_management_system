@@ -1,0 +1,72 @@
+﻿
+
+@model Brainstorm.Models.PurchaseViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div><h2 style="color:#0074D9; font-family:'Century Gothic Light'"><strong>Purchase</strong></h2></div>
+<table class="table table-borderless"  width="100%" cellspacing="0" style="color:black ;background-color:'#f8f8f8'">
+    <tr><td>Invoice NO. : @Model.BillNo</td></tr>
+    <tr><td>Supplier : @ViewBag.SupplierName</td></tr>
+    <tr><td>Purchase Code : @Model.Code</td></tr>
+    <tr><td>Purchase Date: @Model.Date.ToString("dd/MM/yyyy")</td></tr>
+
+</table>
+<div class="sidebar-brand-text mx-3">
+    <h5>
+       @Html.ActionLink("Back", "GetPurchase", "Purchase", null, null)
+    </h5>
+
+
+
+</div>
+
+
+
+
+<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0" style="color:black ;background-color:white">
+    <tr>
+        <th>Sl</th>
+        <th>Products(Code)</th>
+        <th>Manufacturing Date</th>
+        <th>Expired Date</th>
+        <th>Quantity</th>
+        <th>Unit Price(TK)</th>
+        <th>Total Price(TK)</th>
+        <th>MRP(TK)</th>
+        <th>Remarks</th>
+
+
+
+    </tr>
+    @{ int i = 1;}
+    @foreach (var p in Model.PurchaseProducts)
+    {
+        <tr class="Search">
+            <td>@(i++)</td>
+         
+            <td>@p.ProductName (@p.ProductCode)</td>
+            <td>@p.MfgDate.ToString("dd/MM/yyyy")</td>
+            <td>@p.ExpDate.ToString("dd/MM/yyyy")</td>
+            <td>@p.Quantity</td>
+            <td>@p.UnitPrice</td>
+            <td>@p.TotalPrice</td>
+            <td>@p.MRPPrice</td>
+            <td>@p.Remarks</td>
+           
+        </tr>
+    }
+
+</table>
+
+
+
+
+
+<script>
+
+    var link = document.getElementById('search');
+    // link.style.display = 'none';
+    link.style.visibility = 'hidden';
+    </script>

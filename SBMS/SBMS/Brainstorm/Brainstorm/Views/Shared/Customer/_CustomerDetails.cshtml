@@ -1,0 +1,33 @@
+﻿@model Brainstorm.Models.CustomerViewModel
+
+<table class="table table-bordered" id="dataTable" width="100%" cellspacing="0" style="color:black ;background-color:white">
+    <tr>
+        <th>Sl</th>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Email</th>
+        <th>Contact</th>
+        <th>Loyalty Point</th>
+        <th>Action</th>
+    </tr>
+    @{ int i = 1;}
+    @foreach (var cust in Model.Customers)
+    {
+        <tr class="Search">
+            <td>@(i++)</td>
+            <td>@cust.Code</td>
+            <td>@cust.Name</td>
+            <td>@cust.Address</td>
+            <td>@cust.Email</td>
+            <td>@cust.Contact</td>
+            <td>@cust.LoyaltyPoint</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Customer", new { Id = cust.Id }, null)
+                @*@Html.ActionLink("Delete", "Delete", "Customer", new { Id = cust.Id }, null)*@
+            </td>
+        </tr>
+    }
+
+</table>
+

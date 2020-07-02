@@ -1,0 +1,180 @@
+D:\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojResolveAssemblyReference.cache
+D:\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+D:\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+D:\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojAssemblyReference.cache
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CopyComplete
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojResolveAssemblyReference.cache
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojResolveAssemblyReference.cache
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojResolveAssemblyReference.cache
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojResolveAssemblyReference.cache
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojResolveAssemblyReference.cache
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojResolveAssemblyReference.cache
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.BLL.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Model.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.Repository.dll.config
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\Brainstorm.DatabaseContext.dll.config
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\bin\Debug\EntityFramework.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csprojAssemblyReference.cache
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CoreCompileInputs.cache
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.csproj.CopyComplete
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm.BLL\obj\Debug\Brainstorm.BLL.pdb

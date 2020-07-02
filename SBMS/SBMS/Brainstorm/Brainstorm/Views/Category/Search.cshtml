@@ -1,0 +1,144 @@
+﻿@model Brainstorm.Models.CategoryViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*<!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Add</title>
+        <style>
+            table {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+            }
+
+            td, th {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+
+            tr:nth-child(even) {
+                background-color: #dddddd;
+            }
+        </style>
+    </head>
+    <body>*@
+
+@section MyStyle{
+ <style>
+      table {
+          font-family: arial, sans-serif;
+          color: black;
+          border-collapse: collapse;
+          width: 100%;
+      }
+
+      td, th {
+          border: 1px solid #f8f8f8;
+          text-align: left;
+          padding: 8px;
+      }
+
+
+
+      /*tr:nth-child(even) {
+        background-color: #dddddd;
+    }*/
+</style>
+
+
+
+}
+<div><h2 style="color:#0074D9; font-family:'Century Gothic Light'"><strong>Category</strong></h2></div>
+
+<div>
+    <form method="post">
+        <table>
+            <tr>
+                <td>@Html.LabelFor(c => c.Code)</td>
+                <td>@Html.TextBoxFor(c => c.Code, Model.Code)</td>
+                <td>@Html.ValidationMessageFor(c => c.Code)</td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(c => c.Name)</td>
+                @*<td><input type="text" name="Name" value="@Model.Name"/></td>*@
+                <td>@Html.TextBoxFor(c => c.Name, Model.Name)</td>
+                <td>@Html.ValidationMessageFor(c => c.Name)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Search" /></td>
+                <td>
+                    @if (ViewBag.Message != null)
+                    {
+                        <h3>
+                            <b>
+                                @ViewBag.Message;
+                            </b>
+                        </h3>
+                    }
+
+                </td>
+            </tr>
+
+        </table>
+
+        @{
+            Html.RenderPartial("~/Views/Shared/Category/_CategoryDetails.cshtml", Model);
+        }
+    </form>
+</div>
+
+
+@section MyScript{
+    <script src="~/Scripts/jquery-1.8.0.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            function Contains(text_one, text_two) {
+                if (text_one.indexOf(text_two) != -1)
+                    return true;
+            }
+            $("#search").keyup(function () {
+                var searchtext = $("#search").val().toLocaleLowerCase();
+                $(".Search").each(function () {
+
+
+                    if (!Contains($(this).text().toLowerCase(), searchtext)) {
+                        $(this).hide();
+                    }
+                    else {
+                        $(this).show();
+                    }
+                }
+
+
+                )
+
+            }
+
+            )
+
+
+
+        }
+
+
+
+        )
+
+
+    </script>
+}
+@*<script src="~/Scripts/jquery-1.8.0.min.js"></script>
+        <script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    </body>
+    </html>*@

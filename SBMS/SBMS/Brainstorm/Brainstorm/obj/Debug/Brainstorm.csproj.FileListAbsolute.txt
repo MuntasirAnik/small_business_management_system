@@ -1,0 +1,1073 @@
+D:\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojResolveAssemblyReference.cache
+D:\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+D:\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+D:\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+D:\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+D:\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+D:\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+D:\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojAssemblyReference.cache
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CopyComplete
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+E:\DIPTO\New folder\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+D:\SBMS\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojResolveAssemblyReference.cache
+D:\SBMS\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+D:\SBMS\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+D:\SBMS\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojResolveAssemblyReference.cache
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+D:\SBMS\Product added Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+C:\Users\Web App Develop .Net\Desktop\LL\LL\Product added Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojResolveAssemblyReference.cache
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+D:\SBMS\LL3\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojResolveAssemblyReference.cache
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+D:\SBMS\LL4\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojResolveAssemblyReference.cache
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+D:\SBMS\LL4 - Copy\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojResolveAssemblyReference.cache
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+D:\SBMS\LL5\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CopyComplete
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+C:\Users\Web App Develop .Net\Desktop\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojAssemblyReference.cache
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CopyComplete
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+D:\Aseem\FINAL PRO\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.exe.config
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csc.rsp
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.exe.config
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\csi.rsp
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.AppContext.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Collections.Immutable.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Console.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.Process.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Compression.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.IO.Pipes.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Reflection.Metadata.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.AccessControl.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Claims.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Threading.Thread.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.ValueTuple.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.exe.config
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\vbc.rsp
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\roslyn\VBCSCompiler.exe.config
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll.config
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Microsoft.Web.Infrastructure.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.BLL.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Model.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\AutoMapper.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\EntityFramework.SqlServer.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.ValueTuple.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Razor.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Deployment.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Webpages.Razor.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Helpers.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\System.Web.Mvc.xml
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.Repository.dll.config
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.pdb
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\bin\Brainstorm.DatabaseContext.dll.config
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csprojAssemblyReference.cache
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CoreCompileInputs.cache
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.csproj.CopyComplete
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.dll
+D:\STUDY\Dot_net\latest\final update\SBMS_Brainstorm\SBMS\Brainstorm\Brainstorm\obj\Debug\Brainstorm.pdb
